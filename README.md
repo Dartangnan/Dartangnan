@@ -6,11 +6,6 @@ I am an Electrical Engineer and a Developer! 🖐
 
 ### Feel free to connect with me:
 
-[<script
-src="https://kit.fontawesome.com/4cec228884.js"
-crossorigin="anonymous"
-
-> </script>
-> ]
-
-<i class="fab fa-instagram"></i>
+- [Instagram Logo](https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png)
+- [Linkedin Logo](<https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)
+- [E-mail logo](<https://img.icons8.com/ios-glyphs/30/000000/gmail.png)
