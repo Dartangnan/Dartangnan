@@ -1,8 +1,8 @@
 ### Hello, My name is Dartangnan Moreira Theml
 
-### I am an Electrical Engineer and a Developer! 🖐
+## I am an Electrical Engineer and a Developer! 🖐
 
----
+## <div></div>
 
 ### Feel free to connect with me:
 
@@ -14,6 +14,6 @@
 
 </div>
 
----
+## <div></div>
 
-<img align='left' alt="codeSTACKr's Github Stats" src='https://github-readme-stats.vercel.app/api?username=dartangnan&show_icons=true&hide_border=true'/>
+<img align='left' alt="codeSTACKr's Github Stats" src='https://github-readme-stats.vercel.app/api?username=dartangnan&show_icons=true&hide_border=true&theme=noctis_minimus'/>
