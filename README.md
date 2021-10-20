@@ -7,14 +7,6 @@
 ### Feel free to connect with me:
 
 <div styles='display:flex;flex-flow:column;justify-content: space-around;align-items: center;'>
-<div styles='background-color:#dc3545'>[![Instagram][1.2]][1] Instagram</div>
+<a styles='background-color:#dc3545' target='blank' href='www.instagram.com/dartangnantheml' ><img src='https://img.shields.io/badge/Instagram-e65ec1?style=for-the-badge&logo=instagram&logoColor=ffffff'></a>
 
 </div>
-
-<!-- [![Instagram][1.2]][1]
-![Linkedin Logo](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)
-![E-mail logo](https://img.icons8.com/ios-glyphs/30/000000/gmail.png)
- -->
-
-[1.2]: https://img.icons8.com/material-outlined/32/000000/instagram-new--v2.png "Instagram Logo"
-[1]: www.instagram.com/dartangnantheml
