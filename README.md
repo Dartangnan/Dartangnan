@@ -2,7 +2,7 @@
 
 #### I am an Electrical Engineer and a Developer! 🖐
 
-<hr>
+## <div> </div>
 
 ### Feel free to connect with me:
 
